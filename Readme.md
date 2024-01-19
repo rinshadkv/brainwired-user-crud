@@ -21,7 +21,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/user-crud.git
+git clone https://github.com/rinshadkv/brainwired-user-crud.git
 cd user-crud
 Run the Application:
 ./gradlew bootRun
